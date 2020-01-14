@@ -62,6 +62,10 @@
      "Responsive":{
       "name": "Responsivt Layout",
       "desc": "Denne app er designet og udviklet så den passer til alle de mest populære smartphones på markedet, så ingen frygt."
+     },
+     "Functions":{
+      "name": "Fantastiske funktioner",
+      "desc": "Taxifix 2.0 kommer med en masse lækre funktioner.<br> Nedenfor kan du se et uddrag af de funktioner vi har fokuseret på."
      }
       
   }

@@ -1477,7 +1477,7 @@ a.button-blog:hover{
 /* ========================================================== */
 
 .download-app-wrapper{
-	background: url(../images/Mockups/iPhone\ X-XS\ –\ 429.png) top center no-repeat;
+	/*background: url(../images/Mockups/iPhone\ X-XS\ –\ 429.png) top center no-repeat;*/
 	background-size: cover;
 	background-attachment: fixed;
 	width: 100%;
