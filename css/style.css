@@ -2348,7 +2348,7 @@ ul.partners-mentions li img:hover {
 /* 			             JSON FETCH                           */
 /* ========================================================== */
 
-#gridBNR, #gridPART, #gridCASES{
+#gridBNR, #gridPART, #gridCASES, #gridContent{
 	background-color: white;
 	border-radius: 8px 8px;
 	text-align: center;
@@ -2358,7 +2358,7 @@ ul.partners-mentions li img:hover {
 	width: 200px;
 }
 
-#gridBNR:hover, #gridPART:hover, #gridCASES:hover{
+#gridBNR:hover, #gridPART:hover, #gridCASES:hover, #gridContent:hover{
 	border: 1px solid #fff;
 	background: transparent;
 	color: #fff!important;

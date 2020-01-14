@@ -10,6 +10,59 @@
      "CASES":{
       "intro": "Se mere på",
       "name": "Cases"
+     },
+     "Content":{
+      "intro": "Lorem Ipsum",
+      "name": "Cont"
+     },
+     "Skills":{
+      "name": "Tekniske færdigheder",
+      "desc": "Vi har mere end 28 års erfaring i branchen og arbejder hver dag med optimering."
+     },
+     "Team":{
+      "name": "Et Tæt Team",
+      "desc": "Vi arbejder side om side med vores samarbejdspartnere i hele Skandinavien."
+     },
+     "Updates":{
+      "name": "Opdateringer",
+      "desc": "Besøg vores Website for beskeder om ændringer og opdateringer i vores produkter."
+     },
+     "Communication":{
+      "name": "Daglig Kommunikation",
+      "desc": "Vi går meget op i at have en tæt dialog med vores brugere."
+     },
+     "Scandinavia":{
+      "name": "Hele Norden",
+      "desc": "Vi levere software til mange virksomheder i hele Skandinavien."
+     },
+     "Payment":{
+      "name": "Kontrolleret Betaling",
+      "desc": "Trods den høje kvalitet sikre vi at alle virksomheder kan være med i kampen om god sofware."
+     },
+     "Support":{
+      "name": "23/7 Support",
+      "desc": "Ris, ros eller gennerelle spørgsmål kan altid besvares gennem vores support som har åbent 23 timer i døgnet!"
+     },
+     "Premium":{
+      "name": "Premium Features",
+      "desc": "Vores fantastiske funktion som omhandler sammenkørsel til populære destinationer har fået et brush-up i den nye app!"
+     },
+     "Design":{
+      "name": "Moderne Design",
+      "desc": "Det helt nye design i appen er moderne og med fokus på vores målgruppe så alle får en oplevelse af et tidsløs design."
+     },
+     "Gps":{
+      "name": "Nøjagtig GPS",
+      "desc": "Med vores gennemarbejdet software garanterer vi en yderst præcis lokationsgenkendelse, med 1-2 meters nøgagtigned."
+     },
+     "Developed":{
+      "name": "Udviklet til alle",
+      "desc": "Med 20 års erfaring indenfor udvikling af software, understøtter den advancerede GPS teknologi også dig!"
+     },
+     "Responsive":{
+      "name": "Responsivt Layout",
+      "desc": "Denne app er designet og udviklet så den passer til alle de mest populære smartphones på markedet, så ingen frygt."
      }
+      
   }
   
