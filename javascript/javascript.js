@@ -22,6 +22,7 @@ fetch('json/virksomheden.json')
     appendGps(json.Gps);
     appendDeveloped(json.Developed);
     appendResponsive(json.Responsive);
+    appendFunctions(json.Functions);
   });
 
 function appendBNR(BNR) {
@@ -157,5 +158,13 @@ function  appendResponsive(Responsive) {
     doc.querySelector(".responsive").innerHTML += `
       <h4>${Responsive.name}</h4>
         <p>${Responsive.desc}</p>
+      `;
+}
+
+function  appendFunctions(Functions) {
+    //console.log(Responsive);
+    doc.querySelector(".functions").innerHTML += `
+      <h2 class="section-title">${Functions.name}</h2>
+        <p class="section-subtitle">${Functions.desc}</p>
       `;
 }
